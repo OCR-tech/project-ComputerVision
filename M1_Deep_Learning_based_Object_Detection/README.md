@@ -1,4 +1,4 @@
-Module 1: Deep Learning based Object Detection
+# Module 1: Deep Learning based Object Detection
 
 ## Objectives:
 - To detect objects using a pre-trained DNN Mobilenet architecture model
