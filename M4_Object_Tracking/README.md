@@ -20,7 +20,7 @@
 - The model can be used to detect objects in images and provide class labels and bounding boxes for each detected object
 <br><br>
 
-<p align="center"><u>Tracked objects with bounding box</u></p>
+<p align="center"><i>Tracked objects with bounding box</i></p>
 
 ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_cv4a.png)
 <br>
