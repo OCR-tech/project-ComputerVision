@@ -1,4 +1,4 @@
-Module 4: Object Tracking
+# Module 4: Object Tracking
 
 ## Objectives:
 - To track objects using a tracker class for computer vision
@@ -14,7 +14,7 @@ Module 4: Object Tracking
 
 ## Usages:
 - Open in Colab and run the code
-- Use the tracker class to track objects in real-time video streams
+- Use the pre-trained model to track objects in real-time video streams
 
 ## Data:
 - The dataset is downloaded from OpenCV (Link: https://www.kaggle.com/c/bluebook-for-bulldozers/data).
@@ -25,5 +25,5 @@ Module 4: Object Tracking
 
 <p align="center" style="text-decoration: underline;">Tracked objects with bounding box</p>
 
-![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/project_cv4a.png)
+![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_cv4a.png)
 <br>
