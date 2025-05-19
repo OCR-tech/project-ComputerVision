@@ -14,7 +14,7 @@
 - The model can be used to detect objects in images and provide class labels and bounding boxes for each detected object
 <br><br>
 
-<p align="center" style="text-decoration: underline;">Detected objects with class labels and bounding boxes</p>
+<p align="center"><b>Detected objects with class labels and bounding boxes</b></p>
 
 ![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_cv1a.png)
 <br>
