@@ -15,6 +15,7 @@
 <br><br>
 
 <p align="center"><b>Detected objects with class labels and bounding boxes</b></p>
-
-![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_cv1a.png)
+<div align="center">
+  <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_cv1a.png"/>
+</div>
 <br>

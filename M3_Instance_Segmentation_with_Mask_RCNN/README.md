@@ -14,6 +14,7 @@
 - The model can be used to classify and segment objects in images, providing a mask for each detected object
 <br><br>
 <p align="center"><b>Instance segmentation on objects</b></p>
-
-![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_cv3a.png)
+<div align="center">
+  <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_cv3a.png"/>
+</div>
 <br>

@@ -17,6 +17,7 @@
 <br><br>
 
 <p align="center"><b>Tracked objects with bounding box</b></p>
-
-![Alt text](https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_cv4a.png)
+<div align="center">
+  <img src="https://github.com/OCR-tech/OCR-tech/blob/main/docs/img/module_cv4a.png"/>
+</div>
 <br>
