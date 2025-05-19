@@ -15,10 +15,6 @@
     - Perform inference on each image and store the results in a list
     - Loop over each of the images and display annotated images
 
-## Usages:
-- Open in Colab and run the [code](https://colab.research.google.com/github/OCR-tech/OCR-tech/blob/main/M2_Object_Detection_using_TensorFlow_Hub/Module_2_Object_Detection_using_TensorFlow_Hub.ipynb)
-- Use the pre-trained model to detect objects in images
-
 ## Outcomes:
 - The model can be used to detect objects in images and provide class labels and bounding boxes for each detected object
 <br><br>

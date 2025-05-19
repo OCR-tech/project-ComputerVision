@@ -8,10 +8,7 @@
 2. Download the pre-trained model
 3. Download sample images
 4. Run inference on the image
-
-## Usages:
-- Open in Colab and run the [code](https://colab.research.google.com/github/OCR-tech/OCR-tech/blob/main/M3_Instance_Segmentation_with_Mask_RCNN/Module_3_Instance_Segmentation_with_Mask_RCNN.ipynb)
-- Use the pre-trained model to segment objects in images
+5. Visualize the results
 
 ## Outcomes:
 - The model can be used to classify and segment objects in images, providing a mask for each detected object

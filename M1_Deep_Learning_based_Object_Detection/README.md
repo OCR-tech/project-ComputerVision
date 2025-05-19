@@ -10,10 +10,6 @@
     - Detect objects using a forward pass through the network
     - Display detected objects with bounding boxes and class labels
 
-## Usages:
-- Open in Colab and run the [code](https://colab.research.google.com/github/OCR-tech/OCR-tech/blob/main/M1_Deep_Learning_based_Object_Detection/Module_1_Deep_Learning_based_Object_Detection.ipynb)
-- Use the pre-trained model to detect objects in images
-
 ## Outcomes:
 - The model can be used to detect objects in images and provide class labels and bounding boxes for each detected object
 <br><br>

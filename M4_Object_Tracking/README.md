@@ -12,10 +12,6 @@
 6. Initialize tracker
 7. Read frame and track object
 
-## Usages:
-- Open in Colab and run the [code](https://colab.research.google.com/github/OCR-tech/OCR-tech/blob/main/M4_Object_Tracking/Module_4_Object_Tracking.ipynb)
-- Use the pre-trained model to track objects in real-time video streams
-
 ## Outcomes:
 - The model can be used to detect objects in images and provide class labels and bounding boxes for each detected object
 <br><br>
