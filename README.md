@@ -1,7 +1,7 @@
 # Computer Vision Projects
 
 ## Overview
-This repository contains four computer vision modules that utilize machine learning and deep learning techniques covering a range of topics, including object detection, instance segmentation, and object tracking. The modules are structured to provide a comprehensive understanding of the workflow involved in inferencing and deploying machine learning models for real-world applications.
+This repository contains four computer vision modules that utilize machine learning and deep learning techniques covering a range of topics, including object detection, instance segmentation, and object tracking. 
 
 ## [Module 1: Deep Learning based Object Detection](M1_Deep_Learning_based_Object_Detection/README.md)
 This module focuses on detecting objects in images using deep learning techniques. It demonstrates how to use a pre-trained DNN Mobilenet architecture model for object detection using model inference.
